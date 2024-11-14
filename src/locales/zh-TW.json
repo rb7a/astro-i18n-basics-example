@@ -1,0 +1,14 @@
+{
+  "site": {
+    "title": "歡迎來到 Astro",
+    "description": "🚀 更快的網站建構框架"
+  },
+  "page": {
+    "heading": "歡迎來到 Astro。",
+    "subheading": "這是一個最簡單的 Astro 專案範例。",
+    "documentation": "文件",
+    "integrations": "整合",
+    "themes": "主題",
+    "chat": "社群聊天"
+  }
+}
